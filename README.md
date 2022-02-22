@@ -1,6 +1,6 @@
 # Erebus
 
-Erebus is a game written in Unity, made from a team of 6 student engineers.
+Erebus is a game written in Unity, made from a team of 6 engineers.
 
 It features both 2D and 3D platforming puzzles that interact with one another.
 
