@@ -1,4 +1,4 @@
-# CSE 5912 Erebus
+# Erebus
 
 Erebus is a game written in Unity, made from a team of 7 engineers.
 
